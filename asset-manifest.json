@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pyqbook/static/css/main.3b99445c.css",
+    "main.js": "/pyqbook/static/js/main.47be04d2.js",
+    "static/media/homeBgVideo.mp4": "/pyqbook/static/media/homeBgVideo.09a4b806fd21c9b09282.mp4",
+    "index.html": "/pyqbook/index.html",
+    "main.3b99445c.css.map": "/pyqbook/static/css/main.3b99445c.css.map",
+    "main.47be04d2.js.map": "/pyqbook/static/js/main.47be04d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b99445c.css",
+    "static/js/main.47be04d2.js"
+  ]
+}
